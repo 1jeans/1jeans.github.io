@@ -8,7 +8,7 @@
 */
 body {
   font-family: 'Roboto', sans-serif;
-  color: #757683;
+  color: #585861;
   background: #f5f5f5;
   font-size: 14px;
   -webkit-font-smoothing: antialiased;
@@ -52,7 +52,7 @@ p {
 }
 
 .sidebar-wrapper {
-  background: #6667AB;
+  background: #585861;
   position: absolute;
   right: 0;
   width: 240px;
@@ -187,7 +187,7 @@ p {
   text-transform: uppercase;
   font-size: 20px;
   font-weight: 500;
-  color: #6667AB;
+  color: #585861;
   position: relative;
   margin-top: 0;
   margin-bottom: 20px;
@@ -207,7 +207,7 @@ p {
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  background: #6667AB;
+  background: #585861;
   text-align: center;
   font-size: 16px;
   position: relative;
